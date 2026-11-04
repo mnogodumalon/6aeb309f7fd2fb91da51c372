@@ -1,0 +1,45 @@
+{
+  "entities": {
+    "Veranstaltungen": {
+      "placeholders_set": 4,
+      "defaults_keys": [
+        "datum",
+        "beamer_modus"
+      ],
+      "computed_keys": [],
+      "reason": "Keine Formel, da es nur ein einzelnes Datum und keine Mengen oder Preise gibt, die sich berechnen ließen."
+    },
+    "Fragen an die Gruppe": {
+      "placeholders_set": 7,
+      "defaults_keys": [
+        "status"
+      ],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es nur Stammdaten ohne Datums- oder Preisfelder gibt; die Fassungsnummer der Auswertung ist keine Rechengröße."
+    },
+    "Teilnehmende": {
+      "placeholders_set": 4,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es sich um Stammdaten ohne numerische Felder handelt, und keine Defaults, da Einwilligung bewusst vom Nutzer gesetzt werden soll."
+    },
+    "Beiträge": {
+      "placeholders_set": 5,
+      "defaults_keys": [
+        "sichtbarkeit"
+      ],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es sich um Texteinsendungen ohne Datumspaare oder Mengen und Preise handelt; nur der Startstatus Neu wird vorbelegt."
+    },
+    "Auswertungen": {
+      "placeholders_set": 14,
+      "defaults_keys": [
+        "fassung",
+        "zeitstand",
+        "status"
+      ],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da nur Texte und eine Fassungsnummer ohne Rechenkette vorliegen."
+    }
+  }
+}

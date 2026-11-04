@@ -1,0 +1,46 @@
+{
+  "VeranstaltungenDialog.tsx": {
+    "beamer_auswertung": "Welche Auswertung zeigen?",
+    "titel": "z. B. Zukunftswerkstatt 2026",
+    "datum": "Wann findet sie statt?",
+    "beschreibung": "Worum geht es?"
+  },
+  "FragenAnDieGruppeDialog.tsx": {
+    "laufende_nummer": "z. B. 1",
+    "bezeichnung": "z. B. Ideen 1",
+    "fragestellung": "Was soll die Gruppe beantworten?",
+    "ki_einleitung": "Worum geht es der KI?",
+    "ki_auftrag": "Was soll die KI tun?",
+    "veranstaltung": "Welche Veranstaltung?",
+    "auswertung_quelle": "Welche Auswertung?"
+  },
+  "TeilnehmendeDialog.tsx": {
+    "kuerzel": "z. B. AB-42",
+    "email": "z. B. name@beispiel.de",
+    "einwilligung_zeitpunkt": "Wann wurde eingewilligt?",
+    "veranstaltung": "Welche Veranstaltung?"
+  },
+  "BeitraegeDialog.tsx": {
+    "frage": "Zu welcher Frage?",
+    "teilnehmer": "Wer sendet ein?",
+    "antwort": "Was denkst du dazu?",
+    "anmerkung": "Noch etwas zu ergänzen?",
+    "einsende_kennung": "z. B. EK-2026-001"
+  },
+  "AuswertungenDialog.tsx": {
+    "frage": "Welche Frage wird ausgewertet?",
+    "fassung": "z. B. 1",
+    "bezeichnung": "z. B. Auswertung Mai 2026",
+    "zusammenstellung": "Einleitung, Auftrag und Beiträge",
+    "verwendete_beitraege": "Eine Beitrags-Nummer pro Zeile",
+    "zeitstand": "Wann wurde zusammengestellt?",
+    "ki_antwort": "Antwort der KI einfügen",
+    "abschnitt_1": "Inhalt des ersten Abschnitts",
+    "abschnitt_2": "Inhalt des zweiten Abschnitts",
+    "abschnitt_3": "Inhalt des dritten Abschnitts",
+    "abschnitt_4": "Inhalt des vierten Abschnitts",
+    "abschnitt_5": "Falls nötig, weiterer Inhalt",
+    "abschnitt_6": "Falls nötig, weiterer Inhalt",
+    "notizen": "Interne Hinweise"
+  }
+}
